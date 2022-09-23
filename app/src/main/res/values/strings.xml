@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">googleauth</string>
+    <string name="web_cliente_id">868872752676-u8t0sdfrnuaqv1qkunadf2ua7pei12vp.apps.googleusercontent.com</string>
+    <string name="web_client_id" />
+</resources>
